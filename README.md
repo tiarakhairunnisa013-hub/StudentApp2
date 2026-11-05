@@ -1,25 +1,22 @@
 # StudentApp2
+
 Kelompok 3 - Pemrograman Aplikasi Bergerak
 
-Aplikasi StudentApp merupakan aplikasi mobile untuk mengelola informasi mahasiswa dan mata kuliah.
+Aplikasi StudentApp2 merupakan aplikasi mobile untuk mengelola informasi mahasiswa dan mata kuliah.
 
 ## Tampilan Aplikasi
 
 ### 1. Halaman Login
-
-![Login](Dokumentasi/selamat datang.jpeg)
+![Login](./assets/Dokumentasi/selamat%20datang.jpeg)
 
 ### 2. Halaman Beranda
-
-![Beranda](Dokumentasi/Beranda.jpeg)
+![Beranda](./assets/Dokumentasi/Beranda.jpeg)
 
 ### 3. Halaman Mata Kuliah
-
-![Mata Kuliah](Dokumentasi/Mata Kuliah.jpeg)
+![Mata Kuliah](./assets/Dokumentasi/Mata%20Kuliah.jpeg)
 
 ### 4. Halaman Logout
-
-![Logout](Dokumentasi/Logout.jpeg)
+![Logout](./assets/Dokumentasi/Logout.jpeg)
 
 ## Teknologi
 
